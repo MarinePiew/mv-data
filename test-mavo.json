@@ -3,7 +3,7 @@
 		{
 			"picture": "https://img.grouponcdn.com/seocms/peu5jxDcxSHmhwUoESuBhK/Plume_Small_Kitchen-600x390.jpg",
 			"url": "http://www.plume.coffee/Home.html",
-			"name": "Bordeaux",
+			"name": "Le restaurant Plume Coffee",
 			"visite": [
 				{
 					"date": "2016-03-15",
@@ -20,6 +20,20 @@
 						{
 							"name": "tiramisu spéculoos",
 							"dishRating": 8.5
+						},
+						{
+							"name": "Lapin à la moutarde",
+							"dishRating": 8.5
+						}
+					]
+				},
+				{
+					"date": "2017-10-20",
+					"title": "Miam c'était bon",
+					"plat": [
+						{
+							"name": "Carrot cake",
+							"dishRating": 9.5
 						}
 					]
 				}
